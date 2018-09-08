@@ -51,7 +51,7 @@ bot.on("message", async message => {
     let embed = new Discord.RichEmbed();
     embed.setColor("#3366ff");
 
-    var x = Math.floor((Math.random() * 19) + 1);
+    var x = Math.floor((Math.random() * 31) + 1);
     console.log(x);
     switch (x) {
       case 1:
