@@ -111,6 +111,42 @@ bot.on("message", async message => {
       case 19:
       embed.setImage("https://scontent.fbeg5-1.fna.fbcdn.net/v/t34.18173-12/15722767_1261599407256602_675856974_n.jpg?_nc_cat=0&oh=870e4a4cdf842dcf303d0e596ce9f196&oe=5B95571F", 400, 400);
       break;
+        case 20:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487930636447776778/31821172_1744720578944480_1506263726699839488_n.png", 400, 400);
+      break;
+        case 21:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487930724171776040/31206483_1734884666594738_6333272201025814528_n.png", 400, 400);
+      break;
+        case 22:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931154968870932/23226761_1562821163801090_1274692928_n.png", 400, 400);
+      break;
+         case 23:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931200963608576/23315978_1562817670468106_233343998_n.png", 400, 400);
+      break;
+        case 24:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931287466672128/22375360_1536167346466472_571792309_o.png", 400, 400);
+      break;
+         case 25:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931317359607819/22119402_1528450083904865_140332958_n.png", 400, 400);
+      break;
+        case 26:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931355720843284/22192789_1528236683926205_1148412055_n.png", 400, 400);
+      break;
+        case 27:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931410821152768/21754436_1515140861902454_890372518_n.png", 400, 400);
+      break;
+          case 28:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931443251773455/21729561_1515034328579774_1340301657_n.png", 400, 400);
+      break;
+        case 29:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931479649943562/21741757_1514947695255104_1753284453_n.png", 400, 400);
+      break;
+        case 30:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931647233359882/20227355_1468396776576863_1951632172_n.png", 400, 400);
+      break;
+        case 31:
+      embed.setImage("https://cdn.discordapp.com/attachments/340539446329868290/487931687247020036/20270164_1468359686580572_155963022_n.png", 400, 400);
+      break;
       default:
         break;
     }
